@@ -1,0 +1,8 @@
+snes9x-euphoria
+Snes9x Euphoria Is a Snes emulator for the PSP
+
+Snes9x Euphoria is a continuation of the Snes9xTyl project.
+
+It offers better speed, more stability and overall better snes experience on the PSP
+
+(Saved: March 14, 2015)
